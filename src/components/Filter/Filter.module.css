@@ -2,7 +2,6 @@
     width: 350px;
     padding: 20px;
     padding-top: 0px;
-    background-color:rgb(231, 169, 44);
     border: 1px solid black;
     border-radius: 5px;
 }
@@ -18,5 +17,5 @@
 
 .input:hover,
 .input:focus {
-    box-shadow: 5px 5px 5px 0px rgba(207, 124, 14, 0.75);
+    box-shadow: 5px 5px 5px 0px rgba(0, 0, 0, 0.75);
 }
